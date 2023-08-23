@@ -12,5 +12,5 @@ Dans ce notebook, j'entraine le modèle avec les hyper-paramètres choisis dans 
 Et je l'enregistre dans 'model.pkl' pour pouvoir le déployer
 
 # app.py
-Dans ce script python, je deploie mon modèle via une webb app streamlit
+Dans ce script python, je deploie mon modèle via une web app streamlit
 (streamlit run app.py)
