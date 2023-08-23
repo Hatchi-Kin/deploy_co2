@@ -1,7 +1,7 @@
 Remarques
 
-    Il faut run 02best_training.ipynb avant app.py. 
-    Le fichier model.pkl est nécessaire à app.py et est crée par le second notebook.
+    Le fichier model.pkl est nécessaire à app.py et est crée par le second notebook. 
+    Il faut donc run 02best_training.ipynb avant app.py
 
 
 # 01best_model.ipynb : 
