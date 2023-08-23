@@ -2,7 +2,7 @@ Utilisation
 
     Exécutez les notebooks dans l'ordre suivant :
 
-jupyter notebook 01best_model.ipynb
+jupyter notebook 01best_model.ipynb\n
 jupyter notebook 02best_training.ipynb
 
     Lancez l'application web :
