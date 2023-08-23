@@ -1,6 +1,6 @@
 Remarques
 
-    Il est important d'exécuter 02best_training.ipynb avant app.py. 
+    Ilc.ipynb avant app.py. 
     Le fichier model.pkl est nécessaire à app.py.
 
 
@@ -13,4 +13,6 @@ Et je l'enregistre dans 'model.pkl' pour pouvoir le déployer
 
 # app.py
 Dans ce script python, je deploie mon modèle via une web app streamlit
-(streamlit run app.py)
+
+    streamlit run app.py. 
+
