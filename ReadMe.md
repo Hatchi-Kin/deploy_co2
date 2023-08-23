@@ -1,6 +1,7 @@
 Remarques
 
-    Il est important d'exécuter 02best_training.ipynb avant app.py. Le fichier model.pkl est nécessaire à app.py.
+    Il est important d'exécuter 02best_training.ipynb avant app.py. 
+    Le fichier model.pkl est nécessaire à app.py.
 
 
 # 01best_model.ipynb : 
